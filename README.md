@@ -6,9 +6,10 @@ I supply probabilistic argument for both results, based on of Hofstad's book "Ra
 
 <p align="center">
 <img src = "friendsip_paradox_data\lastfm_network.png" width = 80% height = 80%>
+*Figure 1: LastFM Network*
 </p>
 
 <p align="center">
 <img src = "friendsip_paradox_data\experiment_result.png" width = 80% height = 80%>
+*Figure 2: Experiment Result*
 </p>
-
