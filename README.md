@@ -5,12 +5,10 @@ The Friendship Paradoxes is a family of classical results in classical results a
 I supply probabilistic argument for both results, based on of Hofstad's book "Random Graphs and Complex Networks". Details can be found in the report. I also verify these phenomena on empirical data, sourced from [Rozemberczki & Sarkar (2020)](http://arxiv.org/abs/2005.07959):
 
 <p align="center">
-![LastFM Network](friendsip_paradox_data/lastfm_network.png)
-*Figure 1: LastFM Network*
+<img src = "friendsip_paradox_data\lastfm_network.png" width = 80% height = 80%>
 </p>
 
 <p align="center">
-![Experiment Result](friendsip_paradox_data/experiment_result.png)
-*Figure 2: Experiment Result*
+<img src = "friendsip_paradox_data\experiment_result.png" width = 80% height = 80%>
 </p>
 
